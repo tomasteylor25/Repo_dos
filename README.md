@@ -5,10 +5,10 @@ Breve descripcion
 ---
 
 ## Tabla de contenido
--[Caracteristicas](#caracteristicas)
--[Tecnologias](#tecnologias)
--[Requerimientos](#requerimientos)
--[Instalacion](#instalacion)
+- [Caracteristicas](#caracteristicas)
+- [Tecnologias](#tecnologias)
+- [Requerimientos](#requerimientos)
+- [Instalacion](#instalacion)
 
 ---
 
