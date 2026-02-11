@@ -40,3 +40,9 @@ linea para generar conflicto rama teylor
 - Pasos para instalar el proyecto localmente
 ```bash
 git clone https://github.com/tomasteylor25/Repo_dos.git
+```
+
+---
+## Video tutorial
+
+[![Click para ver video](asset/Flor.png)](https://www.youtube.com/watch?v=e8X3ACToii0&list=RDe8X3ACToii0&start_radio=1)
