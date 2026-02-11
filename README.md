@@ -1,6 +1,6 @@
 # Proyeccto de uso de herramientas Git contribuyentes
 
-Breve descripcion
+linea para generar conflicto rama tomas
 
 ---
 
