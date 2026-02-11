@@ -49,3 +49,10 @@ git clone https://github.com/tomasteylor25/Repo_dos.git
 
 ---
 [![Click para ver video](https://i.pinimg.com/736x/41/b8/c4/41b8c4faa475d7f2d731e4465621f6df.jpg)]
+
+---
+## Demostracion
+
+Si quieres ver el archivo dar click
+
+[Open in StackBlitz](https://stackblitz.com/edit/secret-python-iy5kemfh?file=main.py&title=Python%20Starter)
