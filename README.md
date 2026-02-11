@@ -1,6 +1,7 @@
 # Proyeccto de uso de herramientas Git contribuyentes
 
 linea para generar conflicto rama tomas
+linea para generar conflicto rama teylor
 
 ---
 
